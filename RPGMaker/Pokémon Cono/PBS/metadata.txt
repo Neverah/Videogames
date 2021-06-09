@@ -1,0 +1,401 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=3,7,5,8
+WildBattleBGM=002-Battle02.mid
+[001]
+# Cueva de la Discordia
+[002]
+# Lago Conífera
+BattleBack=Field
+Bicycle=true
+MapPosition=0,13,12
+Outdoor=true
+ShowArea=true
+[003]
+# Ruta 1
+MapSize=0,
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,13,12
+Outdoor=true
+WildBattleBGM=BatS.mp3
+HealingSpot=2,8,8
+ShowArea=true
+[004]
+# Intro
+MapPosition=0,13,12
+ShowArea=false
+[005]
+# Fridge Shop
+MapPosition=0,13,11
+Outdoor=false
+ShowArea=true
+[006]
+# La Alameda
+Bicycle=true
+MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
+[007]
+# Centro Pokémon
+MapSize=2,11
+Bicycle=false
+MapPosition=0,13,10
+Outdoor=false
+ShowArea=true
+[008]
+# Tienda
+MapPosition=0,13,12
+[009]
+# Casa de Lois
+MapPosition=0,14,10
+HealingSpot=8,17,11
+ShowArea=true
+[010]
+# Casa 1
+BattleBack=IndoorB
+MapPosition=0,13,10
+[011]
+# Templo Tumor
+MapPosition=0,14,10
+Outdoor=false
+ShowArea=true
+[012]
+# Gimnasio Alameda
+MapPosition=0,14,10
+Outdoor=false
+ShowArea=true
+[013]
+# Ruta 2
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,14,10
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[014]
+# Parque Colmena
+BattleBack=Field
+Bicycle=true
+MapPosition=0,13,10
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[015]
+# El vertedero
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,13,10
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[016]
+# Casa del apicultor
+MapPosition=0,13,10
+[017]
+# Ruta 3
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,13,10
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[018]
+# Paso de Montaña
+Bicycle=false
+MapPosition=0,13,10
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[019]
+# Lago cohete
+BattleBack=Cave
+Bicycle=false
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,13,10
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[020]
+# Zona de entrenamiento
+BattleBack=
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,13,10
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[021]
+# Vigo
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,14,8
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[023]
+# Segundo Piso
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+[024]
+# Tercer Piso
+MapPosition=0,15,8
+HealingSpot=23,11,15
+[025]
+# Cuarto Piso
+MapPosition=0,15,8
+[026]
+# Quinto Piso
+MapPosition=0,15,8
+[027]
+# Azotea
+MapPosition=0,15,8
+[028]
+# Ascensor
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+[029]
+# Centro Pokémon
+Bicycle=false
+MapPosition=0,16,8
+Outdoor=false
+ShowArea=true
+[030]
+# Casa de Santi
+Bicycle=false
+MapPosition=0,16,8
+Outdoor=false
+ShowArea=true
+[031]
+# Casa 1
+MapSize=2,1101
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+[033]
+# Gimnasio de Bizcochito
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[034]
+# Museo Cónico
+BattleBack=IndoorC
+Bicycle=false
+MapPosition=0,15,6
+Outdoor=false
+ShowArea=true
+[035]
+# Puerto
+Bicycle=true
+MapPosition=0,13,6
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[036]
+# Ruta 4
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,13,6
+Outdoor=true
+WildBattleBGM=BatS.mp3
+HealingSpot=35,17,7
+ShowArea=true
+[037]
+# La Cueviña
+BattleBack=EliteA
+Bicycle=false
+MapPosition=0,13,6
+Outdoor=false
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[038]
+# Valle Limonero
+Bicycle=true
+MapPosition=0,13,6
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[039]
+# Cordillera Cónica
+MapSize=2,11
+Bicycle=true
+MapPosition=0,11,6
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[040]
+# Ruta 5
+BattleBack=Cave
+Bicycle=false
+MapPosition=0,11,6
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[041]
+# Ruta 6
+MapSize=1,111
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,11,7
+Outdoor=true
+BicycleAlways=false
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[042]
+# Casa de las Nieves
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[043]
+# Andorra
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[044]
+# Centro Pokémon
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+ShowArea=true
+[045]
+# Tienda
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[046]
+# Casa 2
+Bicycle=true
+MapPosition=0,12,6
+[047]
+# Gimnasio Mina
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+Bicycle=false
+MapPosition=0,15,10
+Outdoor=false
+ShowArea=true
+[048]
+# Ruta 7
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=BatE.mp3
+Outdoor=true
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[049]
+# Casa de la Vieja
+Bicycle=true
+MapPosition=0,16,10
+[050]
+# Estación Alameda
+BattleBack=CaveDark
+Bicycle=false
+MapPosition=0,16,10
+DarkMap=false
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+[051]
+# Estación Vigo
+Bicycle=true
+Dungeon=true
+MapPosition=0,16,10
+[052]
+# Cueva Unown
+BattleBack=Cave
+Bicycle=false
+TrainerBattleBGM=BatE.mp3
+MapPosition=0,17,10
+Outdoor=false
+WildBattleBGM=BatS.mp3
+ShowArea=true
+[053]
+# Refugio no muy secreto
+Bicycle=false
+MapPosition=0,17,10
+Outdoor=false
+BicycleAlways=false
+HealingSpot=52,17,14
+ShowArea=true
+[054]
+MapPosition=0,17,10
+[055]
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+MapPosition=0,17,10
+[058]
+MapPosition=0,17,10
+[059]
+BattleBack=EliteD
+MapPosition=0,17,10
+[060]
+MapPosition=0,17,10
+[061]
+BattleBack=EliteB
+MapPosition=0,17,10
+[062]
+MapPosition=0,17,10
+[063]
+MapPosition=0,17,10
+[064]
+BattleBack=EliteC
+MapPosition=0,17,10
+[065]
+MapPosition=0,17,10
+[066]
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
+[067]
+MapPosition=0,12,12
+[068]
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[069]
+DiveMap=70
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+[070]
+MapPosition=0,13,13
+[071]
+MapPosition=0,13,13
+[072]
+Weather=Storm,50
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
+[073]
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
+[074]
+Bicycle=true
+MapPosition=0,12,10
+[075]
+MapPosition=1,13,16
+Outdoor=true
