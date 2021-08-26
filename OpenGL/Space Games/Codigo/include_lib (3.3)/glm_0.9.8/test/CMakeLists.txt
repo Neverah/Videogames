@@ -1,17 +1,3 @@
-function(glmCreateTestGTC NAME)
-	if(GLM_TEST_ENABLE)
-		set(SAMPLE_NAME test-${NAME})
-		add_executable(${SAMPLE_NAME} ${NAME}.cpp)
-
-		add_test(
-			NAME ${SAMPLE_NAME}
-			COMMAND $<TARGET_FILE:${SAMPLE_NAME}> )
-	endif(GLM_TEST_ENABLE)
-endfunction()
-
-add_subdirectory(bug)
-add_subdirectory(core)
-add_subdirectory(gtc)
-add_subdirectory(gtx)
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec7b48869dbf6e02bdff41dddfcece9de779b2b92ea8da2e06a2041122e40ae
+size 356

@@ -1,13 +1,3 @@
-cmake_minimum_required(VERSION 3.13)
-
-project(com)
-set(SOURCES
-        COMIntegration.cpp
-        BStrHolder.h
-        ComPtr.h
-        dte80a.tlh
-        )
-set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -O3 -Wall")
-add_executable(COMIntegration ${SOURCES})
-target_link_libraries(COMIntegration Shlwapi.lib)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f282f876c891d98d9c0f5f8214a0e3bb2d490074ff39e5cd2eab4a0138b7b7e2
+size 344

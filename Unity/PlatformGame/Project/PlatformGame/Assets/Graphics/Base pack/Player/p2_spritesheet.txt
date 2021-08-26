@@ -1,16 +1,3 @@
-p2_duck = 355 95 67 72
-p2_front = 0 190 66 92
-p2_hurt = 426 0 67 92
-p2_jump = 423 95 66 94
-p2_stand = 67 190 66 92
-p2_walk01 = 0 0 70 94
-p2_walk02 = 71 0 70 94
-p2_walk03 = 142 0 70 94
-p2_walk04 = 0 95 70 94
-p2_walk05 = 71 95 70 94
-p2_walk06 = 142 95 70 94
-p2_walk07 = 213 0 70 94
-p2_walk08 = 284 0 70 94
-p2_walk09 = 213 95 70 94
-p2_walk10 = 355 0 70 94
-p2_walk11 = 284 95 70 94
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0a42a9d3c8837e981419ad414755af22b474a8ab9231ea118bb59364d3f4c0
+size 394
