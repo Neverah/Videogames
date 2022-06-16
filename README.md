@@ -1,5 +1,5 @@
 # Videogames
-I use this repository to store all my video game related projects, both finished and in process.
+I use this repository to store some of my video game related projects, both finished and in process.
 
 The projects are separated according to the main engine/tool I have used to develop them.
 
